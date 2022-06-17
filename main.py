@@ -1,6 +1,6 @@
 # Autores: Alejandro cabrera
 #Fecha: 16/06/22
-#version:0.0.1
+#version:0.0.2
 #Description: integrador 
 import funciones as fun
 if __name__ == "__main__":
