@@ -26,3 +26,6 @@ def verifica_entero():
         except ValueError:
             intentos += 1
     raise ValueError("Valor incorrecto ingresado en 5 intentos")
+
+    #me sumo al proyecto integrador, creo una rama y hago un push
+    
