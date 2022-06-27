@@ -28,6 +28,5 @@ def verifica_entero():
     raise ValueError("Valor incorrecto ingresado en 5 intentos")
 
     #me sumo al proyecto integrador, creo una rama y hago un push
-    #creo un comentario nuevo desde de mi rama de funciones "rama de funciones rodrigo perez"
+    #creo un comentario nuevo desde de mi rama de funciones "rama de funciones rodrigo perez :)"
 
-    
