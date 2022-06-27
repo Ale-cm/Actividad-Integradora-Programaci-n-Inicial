@@ -1,5 +1,8 @@
 
 
+import numbers
+
+
 def list():
     """ Devuelve una lista de 5 numeros enteros que ingresa el usuario """
     lista_cantidad = 5
@@ -27,8 +30,17 @@ def verifica_entero():
             intentos += 1
     raise ValueError("Valor incorrecto ingresado en 5 intentos")
 
+def funcion_max(lista):
+    max_value = max (lista)
+    print (max_value)
+    return max_value 
 
-    
+def funcion_min(lista):
+    min_value = min (lista)
+    print (min_value)
+    return min_value
+
 #otro comentario 
 #me sumo al proyecto integrador, creo una rama y hago un push
 #creo un comentario nuevo desde de mi rama de funciones "rama de funciones rodrigo perez :)"
+

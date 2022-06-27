@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print("Por favor ingrese 5 numeros: ")
     lista = fun.list()
     print(" cuidado ", lista)
+    max = fun.funcion_max (lista)
+    min = fun.funcion_min (lista) 
