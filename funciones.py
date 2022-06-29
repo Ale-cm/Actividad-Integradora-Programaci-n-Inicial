@@ -1,8 +1,3 @@
-
-
-import numbers
-
-
 def list():
     """ Devuelve una lista de 5 numeros enteros que ingresa el usuario """
     lista_cantidad = 5
