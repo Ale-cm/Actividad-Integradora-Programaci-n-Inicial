@@ -43,4 +43,5 @@ def funcion_min(lista):
 #otro comentario 
 #me sumo al proyecto integrador, creo una rama y hago un push
 #creo un comentario nuevo desde de mi rama de funciones "rama de funciones rodrigo perez :)"
+#otro 2/ 6 2022
 
