@@ -27,7 +27,7 @@ def verifica_entero():
 
 def funcion_max(lista):
     max_value = max (lista)
-    print ("el número mayor de los ingresados es: " , max_value)
+    print ("el mayor número de los ingresados es: " , max_value)
     return max_value 
 
 def funcion_min(lista):
@@ -37,12 +37,12 @@ def funcion_min(lista):
 
 def funcion_promedio(lista):
     promedio = sum(lista) / len(lista)
-    print("el promedio de los numeros ingresados es: " , int(promedio))
+    print("el promedio de los números ingresados es: " , int(promedio))
     return promedio
-"""
+
 def funcion_suma(lista):
     suma = sum(lista)
-    print("la suma de los elementos de la lista es: ", suma)
+    print("la suma de los numeros es: ", suma)
     return suma  
    
-    """
+    

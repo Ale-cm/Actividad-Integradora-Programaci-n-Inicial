@@ -1,5 +1,6 @@
 1# Autores: Alejandro cabrera
-#           Rodrigo Pérez  DIN: 35054269 
+#           Rodrigo Pérez  DNI: 35054269
+#           Milena Coyante Arias DNI: 43411822 
 #Fecha: 16/06/22
 #version:0.0.2
 #Description: Proyectyo Integrador 
@@ -19,5 +20,5 @@ if __name__ == "__main__":
     print()
     prom = fun.funcion_promedio(lista)
     print() 
-    """fun.funcion_suma(lista)
-    print()"""
+    fun.funcion_suma(lista)
+    print()
