@@ -1,8 +1,3 @@
-
-
-import numbers
-
-
 def list():
     """ Devuelve una lista de 5 numeros enteros que ingresa el usuario """
     lista_cantidad = 5
@@ -32,15 +27,22 @@ def verifica_entero():
 
 def funcion_max(lista):
     max_value = max (lista)
-    print (max_value)
+    print ("el mayor número de los ingresados es: " , max_value)
     return max_value 
 
 def funcion_min(lista):
     min_value = min (lista)
-    print (min_value)
+    print ("el menor número de los ingresados es: " , min_value)
     return min_value
 
-#otro comentario 
-#me sumo al proyecto integrador, creo una rama y hago un push
-#creo un comentario nuevo desde de mi rama de funciones "rama de funciones rodrigo perez :)"
+def funcion_promedio(lista):
+    promedio = sum(lista) / len(lista)
+    print("el promedio de los números ingresados es: " , int(promedio))
+    return promedio
 
+def funcion_suma(lista):
+    suma = sum(lista)
+    print("la suma de los numeros es: ", suma)
+    return suma  
+   
+    
