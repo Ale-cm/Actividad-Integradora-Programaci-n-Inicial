@@ -20,4 +20,4 @@ if __name__ == "__main__":
     prom = fun.funcion_promedio(lista)
     print() 
     """fun.funcion_suma(lista)
-    print()
+    print()"""
